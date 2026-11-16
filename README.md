@@ -18,16 +18,16 @@ FloodGuard AI is a machine-learning research prototype that analyzes historical 
 ## 📸 Dashboard Screenshots
 
 ### 1. Monitoring Overview
-![FloodGuard AI monitoring overview](screenshots/D1.png)
+![FloodGuard AI monitoring overview](sD1.png)
 
 ### 2. Station Explorer
-![Historical water levels and rainfall in the station explorer](screenshots/D2.png)
+![Historical water levels and rainfall in the station explorer](D2.png)
 
 ### 3. Batch Predictions and Export
-![Batch predictions and CSV export](screenshots/D3.png)
+![Batch predictions and CSV export](D3.png)
 
 ### 4. Model Evaluation and Limitations
-![Model evaluation and limitations](screenshots/D4.png)
+![Model evaluation and limitations](D4.png)
 
 *Screenshots show a synthetic demonstration CSV, not live or verified flood observations.*
 
